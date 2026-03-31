@@ -5,9 +5,6 @@ A custom Convolutional Neural Network (CNN) built from scratch in PyTorch to cla
 ## Result
 
 **Test Accuracy: 86.22%**
-
-> Baseline for random guessing on CIFAR-10 is 10%. A typical introductory CNN achieves ~70-75%. This model achieves 86.22% without any pretrained weights.
-
 ---
 
 ## Architecture
