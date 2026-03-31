@@ -1,4 +1,4 @@
-# CIFAR-10 Image Classification — PyTorch CNN
+# CIFAR-10 Image Classification
 
 A custom Convolutional Neural Network (CNN) built from scratch in PyTorch to classify images from the CIFAR-10 dataset across 10 categories (planes, cars, birds, cats, deer, dogs, frogs, horses, ships, trucks).
 
